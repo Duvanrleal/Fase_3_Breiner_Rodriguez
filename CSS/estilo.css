@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+}
+nav,header,.contenedor,.central,footer{
+    max-width: 92%;
+    margin: auto;
+}
+nav {
+    background-color: brown;
+}
+header{
+    background-color: darkblue;
+}
+.contenedor{
+    background-color: darkgreen;
+}
+.central{
+    background-color: darkred;
+    display: inline-block;
+    max-width: 65%;
+}
+footer{
+    background-color: deeppink;
+}
+aside{
+    background-color: yellow;
+    display: inline-block;
+    max-width: 27%;
+}
