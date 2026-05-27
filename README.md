@@ -23,4 +23,4 @@ Este proyecto corresponde a una actividad académica enfocada en el desarrollo d
 
 ## Autor
 
-Duván Rodríguez
+Breiner Rodríguez
